@@ -48,8 +48,8 @@ st.pyplot(fig2)
 # Section for Conclusion
 st.subheader("Kesimpulan")
 st.write("""
-1. Pada eksplor data tersebut dapat dilihat bahwa cuaca yang dirasakan dapat berpengaruh pada jumlah peminjaman sepeda baik registed, casual, maupu total seluruh peminjaman sepeda. Pada data terlihat bahwa pada cuaca cerah terdapat paling banyak peminjaman sepeda
-2. Pada eksplor data tersebut dapat dilihat bahwa disaat hari kerja terdapat banyak peminjam dibanding dengan hari libur.
+1. Dari Visualisasi data, dapat dilihat bahwa musim berpengaruh pada jumlah peminjam sepeda. Jumlah peminjaman sepeda paling banyak pada Fall Season (musim gugur) disusul dengan Winter Season, Summer Season, Springer Season.
+2. Dari visualisasi data tersebut dapat dilihat bahwa jumlah peminjaman sepeda lebih banyak saat hari kerja daripada hari libur.
 """)
-st.caption('Copyright (c), created by Febrisa Eka Nur Patricia')
+st.caption('Copyright (c), created by Juni Artha Tambunan')
 
